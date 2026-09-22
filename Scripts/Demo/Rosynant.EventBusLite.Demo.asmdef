@@ -1,0 +1,16 @@
+{
+    "name": "Rosynant.EventBusLite.Demo",
+    "rootNamespace": "Rosynant.EventBusLite.Demo",
+    "references": [
+        "GUID:d70297ae4fdfa3342ba18bfe220140a2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

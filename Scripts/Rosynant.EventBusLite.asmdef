@@ -1,0 +1,14 @@
+{
+    "name": "Rosynant.EventBusLite",
+    "rootNamespace": "Rosynant.EventBusLite",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
