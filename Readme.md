@@ -291,3 +291,7 @@ No. The provider creates itself the first time you subscribe or broadcast.
 For questions, bug reports, or feature requests, contact me: **wojciech_grodzicki@outlook.com**
 
 Please include your Unity version and a description of what you expected versus what happened.
+
+## **Credits**
+
+Created by Wojciech Grodzicki.
