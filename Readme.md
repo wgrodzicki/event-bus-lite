@@ -7,6 +7,8 @@ A lightweight, type-safe event bus for Unity. It lets any part of your project b
 events and any other part listen for them **without the two ever holding a reference to each
 other**. No inspector wiring, no singletons of your own to maintain, no string event names.
 
+![](Documentation/event-bus-lite-social-media.png)
+
 - **Type-safe** — events are plain C# types; listeners receive the exact type they subscribed to.
 - **No setup** — the bus creates itself on first use. Nothing to place in a scene.
 - **Fully decoupled** — broadcasters and listeners never need to know about one another.
