@@ -1,5 +1,8 @@
 # Event Bus Lite
 
+> [!NOTE]
+> This repo contains the source code of my free Event Bus Lite asset.
+
 A lightweight, type-safe event bus for Unity. It lets any part of your project broadcast
 events and any other part listen for them **without the two ever holding a reference to each
 other**. No inspector wiring, no singletons of your own to maintain, no string event names.
